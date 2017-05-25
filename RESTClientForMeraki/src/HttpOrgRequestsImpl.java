@@ -19,6 +19,10 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.message.BasicNameValuePair;
 
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
 public class HttpOrgRequestsImpl implements HttpOrgRequests{
 	
 	 

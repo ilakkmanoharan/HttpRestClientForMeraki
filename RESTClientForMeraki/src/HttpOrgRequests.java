@@ -1,6 +1,10 @@
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.entity.StringEntity;
 
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
 public interface HttpOrgRequests {
 
     public String baseurl = "https://dashboard.meraki.com/api/v0";

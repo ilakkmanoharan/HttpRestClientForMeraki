@@ -1,3 +1,8 @@
+
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
